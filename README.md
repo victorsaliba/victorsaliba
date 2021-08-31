@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @victorsaliba
-- 👀 I’m interested in mathematics
+## Hi, I’m Victor Saliba
+- 👀 I’m interested in mathematics and computational mathematics
 - 🌱 I’m currently learning topology and combinatorics
 
 <!---
